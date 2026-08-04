@@ -417,7 +417,3 @@ pip install --upgrade pydub pygame mutagen Pillow
 ---
 
 *AudioCraft Pro v0.4 | Python 3.9+ | Windows 10/11*
-
-
-# תמונות 
-<img width="1098" height="749" alt="משלב קרדיט" src="https://github.com/user-attachments/assets/407fa8e2-6f07-406b-af27-8c2c306b4748" />

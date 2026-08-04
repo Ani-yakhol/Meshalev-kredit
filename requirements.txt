@@ -1,0 +1,5 @@
+PyQt6>=6.4
+pydub
+mutagen
+Pillow
+pyinstaller
